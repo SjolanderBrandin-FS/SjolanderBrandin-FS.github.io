@@ -1,0 +1,28 @@
+body{
+    font-family: Cambria, serif;
+    background-color: indianred;
+    text-align: center;
+}
+h1{
+    font-size: 48px;
+    color: midnightblue;
+    margin-bottom: 30px;
+
+}
+img{
+    image: center;
+}
+h2{
+    color: midnightblue;
+    text-align: start;
+}
+h3{
+    color: midnightblue;
+    text-align: start;
+}
+h4{
+    color: black;
+}
+ul{
+    text-align: start;
+}
