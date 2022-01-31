@@ -1,0 +1,18 @@
+body{font-family: "Myriad Pro";}
+
+
+span.awesome{
+	font-weight:bold;
+	font-style:italic;
+	margin-right: 20px;
+}
+
+#heading{
+	background:#eee;
+	border:#777 solid 10px;
+	padding:14px;
+	color:#333;
+	margin:10px 0;
+}
+
+
